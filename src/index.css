@@ -12,3 +12,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.App {
+  text-align: center;
+}
+
+#nav {
+  background-color: #f9f9f9;
+  padding: 10px;
+}
+
+p{
+  display: inline;
+  padding: 10px;
+  font-family: 'Maven Pro';
+}

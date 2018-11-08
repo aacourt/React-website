@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import './styles.css'
 
-import Navbar from '../navbar/index.js'
-
 import logo from './images/logo.jpg';
 import twitterLogo from './images/socialMediaLogos/twitterLogo.png'
 import instagramLogo from './images/socialMediaLogos/instagramLogo.png'
@@ -39,7 +37,6 @@ class Header extends Component {
                         </a>
                     </div>
                 </div>
-                <Navbar/>
             </div>
         );
     }
