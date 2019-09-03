@@ -1,0 +1,9 @@
+.Contact{
+    padding-top: 10px;
+}
+
+.Contact p{
+    display: block;
+    width: 80%;
+    margin-left: 10%
+}
