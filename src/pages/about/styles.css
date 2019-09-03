@@ -1,0 +1,12 @@
+.Text {
+    width: 100%;
+    padding: 15px 0px;
+    text-align: center;
+
+}
+
+.Text p{
+    display: block;
+    width: 80%;
+    margin-left: 10%
+}

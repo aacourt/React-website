@@ -1,10 +1,16 @@
 import React, { Component } from 'react';
+import './styles.css';
 
 class Blog extends Component {
   render() {
     return (
-      <div >
-        <h1>Yo Blog</h1>
+      <div className="BlogPage">
+        <div className="LeftBlogPanel">
+          <h1>Posts</h1>
+        </div>
+        <div className="RightBlogPanel">
+          <h1>Side Panel</h1>
+        </div>
       </div>
     );
   }

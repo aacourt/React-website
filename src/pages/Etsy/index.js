@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class Candles extends Component {
+class Etsy extends Component {
   render() {
     return (
       <div >
-        <h1>Yo candles</h1>
+        <h1>Yo ETSY</h1>
       </div>
     );
   }
 }
 
-export default Candles;
+export default Etsy;
